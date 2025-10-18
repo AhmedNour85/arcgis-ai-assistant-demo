@@ -7,7 +7,7 @@ A full-stack AI assistant web application that integrates Large Language Models 
 - **Streamlit** - Web application framework for building the user interface
 - **LangChain** - LLM orchestration framework for connecting AI with external tools
 - **Ollama** - Framework for running large language models locally
-- **Qwen2** - Open-source LLM for natural language understanding
+- **Any Open Source LLM** - Open-source LLM for natural language understanding
 - **Model Context Protocol (MCP)** - Standard for connecting AI agents with external data sources
 - **ArcGIS Python API** - Geospatial operations and map rendering
 
