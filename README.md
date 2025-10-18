@@ -35,7 +35,7 @@ A full-stack AI assistant web application that integrates Large Language Models 
    - Install and run Ollama
    - Pull the Qwen2 model:
      ```cmd
-     ollama pull qwen2:latest
+     ollama pull qwen2.5:1.5b
      ```
 
 3. **ArcGIS Account** (Optional but recommended)
@@ -82,7 +82,7 @@ pip install -r requirements.txt
    ARCGIS_PASSWORD=your_password
    
    OLLAMA_BASE_URL=http://localhost:11434
-   OLLAMA_MODEL=qwen2:latest
+   OLLAMA_MODEL=qwen2.5:1.5b
    
    APP_HOST=localhost
    APP_PORT=8501
